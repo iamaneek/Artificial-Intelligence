@@ -15,4 +15,4 @@ the third algorithm is the SIMILIS algorithm. A comprehensive survey
 of these 3 algorithms has been carried out and their similarities and
 differences have been analytically discussed.
 
-# Keywords: association rule, market basket, apriori, fp-growth, similies
+# Keywords: association rule, market basket, apriori, fp-growth, similis
